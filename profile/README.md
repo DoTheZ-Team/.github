@@ -1,6 +1,6 @@
 <img width="1048" alt="Screenshot 2024-06-03 at 6 54 10 PM" src="https://github.com/DoTheZ-Team/Overview/assets/24919880/2b80f79c-5366-458b-acfa-7bfe09d3cae2">
 
-
+저희 서비스에 대한 자세한 내용은 [위키페이지](https://github.com/DoTheZ-Team/Overview/wiki)참고 바랍니다.
 ## 🖥️ Introduction
 
 KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! 👋🏻   
