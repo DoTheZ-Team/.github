@@ -28,6 +28,7 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 저희의 GLUE 서비스를 직접 사용해보고 싶으시다면, [해당 페이지](https://resplendent-souffle-0732ad.netlify.app/) 로 이동하여 즉시 사용가능합니다.
 
 [실제 랜딩 페이지]
+
 <img width="797" alt="Screenshot 2024-06-03 at 7 34 02 PM" src="https://github.com/DoTheZ-Team/Overview/assets/24919880/d2052fc9-247b-4e42-a2c5-98234a68f9ee">
   
 저희 서비스는 카카오를 통해 로그인이 가능하며, 카카오 서비스로부터 인가 코드를 받아 처리를 합니다.
@@ -68,5 +69,6 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 Team DoTheZ(Do the Best 지금)
 
-![KakaoTalk_Photo_2024-06-08-12-59-25](https://github.com/DoTheZ-Team/.github/assets/24919880/b939b118-157d-442e-a139-e21dad5bcd04)
+<img src="https://github.com/DoTheZ-Team/.github/assets/103489352/ef3bee80-8058-4de8-a4fd-b957eea5e83b" width="500px">
+
 
