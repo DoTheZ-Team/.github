@@ -67,7 +67,8 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 해당 프로젝트에 관해 문의 및 연락은 [해당 프로필](https://github.com/sungsil0624) 로 연락 부탁드립니다.
 
 Team DoTheZ(Do the Best 지금)
-![KakaoTalk_Photo_2024-06-08-12-59-10](https://github.com/DoTheZ-Team/.github/assets/24919880/3088b725-0052-43ee-8446-d2e8c9060b98)
+<img width="797" alt="Screenshot 2024-06-03 at 7 34 02 PM" src="![KakaoTalk_Photo_2024-06-08-12-59-10](https://github.com/DoTheZ-Team/.github/assets/24919880/3088b725-0052-43ee-8446-d2e8c9060b98)
+">
 
 ![KakaoTalk_Photo_2024-06-08-12-59-25](https://github.com/DoTheZ-Team/.github/assets/24919880/b939b118-157d-442e-a139-e21dad5bcd04)
 
