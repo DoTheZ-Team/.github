@@ -51,7 +51,7 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 | Profile | Name | Role |
 | :---: | :---: | :---: |
 | <a href="https://github.com/kylo-dev"><img src="https://avatars.githubusercontent.com/u/103489352?v=4" height="120px"></a> | 김현겸 <br> **kylo-dev**| MSA 환경 시스템 아키텍처 설계, GitOps 구축, <br/> Infra 구축, Blog 서버 API 개발, ElasticSearch 검색 API 개발 |
-| <a href="https://github.com/leejuae"><img src="https://avatars.githubusercontent.com/u/51390115?v=4" height="120px"></a> | 이주애 <br> **leejuae · Genie**| DevOps 본인의 역할1 본인의 역할2|
+| <a href="https://github.com/leejuae"><img src="https://avatars.githubusercontent.com/u/51390115?v=4" height="120px"></a> | 이주애 <br> **leejuae · Genie**| DevOps sitcker 서버, recommend 서버 개발 <br/> AI 서비스 구현|
 
 <h3> Architecture part Team members </h3>
 
