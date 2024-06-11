@@ -10,14 +10,15 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 저희 프로젝트 GLUE는 다이어리 꾸미기와 비슷하게 자신이 원하는 스티커를 이용해, 블로그를 꾸밀 수 있는 블로그 서비스입니다.
 
-저희 서비스의 차별점은 풀로 색종이를 붙이듯 자유로운 커스터 마이징이 가능하다는 것입니다.
+저희 서비스의 차별점은 풀로 색종이를 붙이듯 **자유로운 커스터 마이징**이 가능하다는 것입니다.
 
 <h3> 주요기능 </h3>
-첫 번째 기능으로, 원하는 위치에 어디든 스티커를 부착하여 포스팅할 수 있습니다.
 
-두 번째 기능으로, 정해진 스티커들만을 사용해야 했던 기존 서비스들과는 다르게 달리 모델을 이용하여 커스텀 스티커 제작할 수 있습니다.
+1️⃣ 원하는 위치에 어디든 스티커를 부착하여 포스팅할 수 있습니다.
 
-세 번째 기능으로, 사용자가 작성한 포스팅의 해시태그를 기반으로 사용자와 취향이 유사한 블로그를 추천해줍니다.
+2️⃣ 정해진 스티커들만을 사용해야 했던 기존 서비스들과는 다르게 달리 모델을 이용하여 커스텀 스티커 제작할 수 있습니다.
+
+3️⃣ 사용자가 작성한 포스팅의 해시태그를 기반으로 사용자와 취향이 유사한 블로그를 추천해줍니다.
 
 유사한 취미를 가진 블로그에 어떻게 블꾸 되었는지 읽는 것이 하나의 재미 요소입니다.
 
@@ -49,7 +50,7 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 | Profile | Name | Role |
 | :---: | :---: | :---: |
-| <a href="https://github.com/kylo-dev"><img src="https://avatars.githubusercontent.com/u/103489352?v=4" height="120px"></a> | 김현겸 <br> **kylo-dev**| DevOps 본인의 역할1 본인의 역할2|
+| <a href="https://github.com/kylo-dev"><img src="https://avatars.githubusercontent.com/u/103489352?v=4" height="120px"></a> | 김현겸 <br> **kylo-dev**| MSA 환경 시스템 아키텍처 설계, GitOps 구축, <br/> Infra 구축, Blog 서버 API 개발, ElasticSearch 검색 API 개발 |
 | <a href="https://github.com/leejuae"><img src="https://avatars.githubusercontent.com/u/51390115?v=4" height="120px"></a> | 이주애 <br> **leejuae · Genie**| DevOps 본인의 역할1 본인의 역할2|
 
 <h3> Architecture part Team members </h3>
