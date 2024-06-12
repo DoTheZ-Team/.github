@@ -62,6 +62,19 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 <br>
 
+## ⚙️ System Architecture
+
+<img width="790" alt="glue_시스템아키텍처_v2 0" src="https://github.com/DoTheZ-Team/.github/assets/103489352/b1760036-407d-46a3-ae40-56acb41506fb">
+
+## 🌲 CDC Pipeline
+
+<img width="790" alt="glue_cdc_v2" src="https://github.com/DoTheZ-Team/.github/assets/103489352/c8b8881d-6870-4297-9abc-738e40fdb8de">
+
+## 📮 CI/CD Pipeline (GitOps)
+
+<img width="355" alt="glue_cicd" src="https://github.com/DoTheZ-Team/.github/assets/103489352/f8ee05bc-c46e-48ee-8076-1c51239ffe7a">
+
+
 ## 🚨 Notice
 
 해당 GLUE 서비스의 아이디어 저작권 및 소스코드는 KEA 4기 DoTheZ에게 있으며 코드 무단 사용 및 무단 배포를 절대적으로 금합니다. 
