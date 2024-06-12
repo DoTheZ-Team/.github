@@ -41,24 +41,24 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 <h3> Frontend part Team members </h3>
 
-| Profile | Name | Role |
-| :---: | :---: | :---: |
-| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend Service  본인의 역할1  본인의 역할2|
-| <a href="https://github.com/Collection50"><img src="https://avatars.githubusercontent.com/u/86355699?v=4" height="120px"></a> | 김성민 <br> **Collection50**| Frontend Service 본인의 역할1  본인의 역할2|
+| Profile | Name | Role | Project Repository |
+| :---: | :---: | :---: | :---: |
+| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend Service  본인의 역할1  본인의 역할2|[Web-Service](https://github.com/DoTheZ-Team/glue-fe)|
+| <a href="https://github.com/Collection50"><img src="https://avatars.githubusercontent.com/u/86355699?v=4" height="120px"></a> | 김성민 <br> **Collection50**| Frontend Service 본인의 역할1  본인의 역할2| [Web-Service](https://github.com/DoTheZ-Team/glue-fe) |
 
 <h3> DevOps part Team members </h3>
 
-| Profile | Name | Role |
-| :---: | :---: | :---: |
-| <a href="https://github.com/kylo-dev"><img src="https://avatars.githubusercontent.com/u/103489352?v=4" height="120px"></a> | 김현겸 <br> **kylo-dev**| MSA 환경 시스템 아키텍처 설계, GitOps 구축, <br/> Infra 구축, Blog 서버 API 개발, ElasticSearch 검색 API 개발 |
-| <a href="https://github.com/leejuae"><img src="https://avatars.githubusercontent.com/u/51390115?v=4" height="120px"></a> | 이주애 <br> **leejuae · Genie**| DevOps sitcker 서버, recommend 서버 개발 <br/> AI 서비스 구현|
+| Profile | Name | Role | Project Repository |
+| :---: | :---: | :---: | :---: |
+| <a href="https://github.com/kylo-dev"><img src="https://avatars.githubusercontent.com/u/103489352?v=4" height="120px"></a> | 김현겸 <br> **kylo-dev**| MSA 환경 시스템 아키텍처 설계, GitOps 구축, <br/> Infra 구축, Blog 서버 API 개발, ElasticSearch 검색 API 개발 | [Blog-Service](https://github.com/DoTheZ-Team/blog-service) |
+| <a href="https://github.com/leejuae"><img src="https://avatars.githubusercontent.com/u/51390115?v=4" height="120px"></a> | 이주애 <br> **leejuae · Genie**| DevOps sitcker 서버, recommend 서버 개발 <br/> AI 서비스 구현| [Recommend-Service](https://github.com/DoTheZ-Team/recommendation-service) <br/> [Sticker-Server](https://github.com/DoTheZ-Team/sticker-service/tree/develop) |
 
 <h3> Architecture part Team members </h3>
 
-| Profile | Name | Role |
-| :---: | :---: | :---: |
-| <a href="https://github.com/sungsil0624"><img src="https://avatars.githubusercontent.com/u/113875098?v=4" height="120px"></a> | 정준희 <br> **sungsil0624**| Architecture 본인의 역할1 본인의 역할2|
-| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | 정희찬 <br> **anselmo**| Architecture 본인의 역할1 본인의 역할2|
+| Profile | Name | Role | Project Repository |
+| :---: | :---: | :---: | :---: |
+| <a href="https://github.com/sungsil0624"><img src="https://avatars.githubusercontent.com/u/113875098?v=4" height="120px"></a> | 정준희 <br> **sungsil0624**| Architecture 본인의 역할1 본인의 역할2| [Post-Server](https://github.com/DoTheZ-Team/post-service) |
+| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | 정희찬 <br> **anselmo**| Architecture 본인의 역할1 본인의 역할2| [Auth-Server](https://github.com/DoTheZ-Team/auth-service)
 
 <br>
 
