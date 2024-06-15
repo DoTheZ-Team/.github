@@ -57,8 +57,8 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 | Profile | Name | Role | Project Repository |
 | :---: | :---: | :---: | :---: |
-| <a href="https://github.com/sungsil0624"><img src="https://avatars.githubusercontent.com/u/113875098?v=4" height="120px"></a> | 정준희 <br> **sungsil0624**| Architecture 본인의 역할1 본인의 역할2| [Post-Server](https://github.com/DoTheZ-Team/post-service) |
-| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | 정희찬 <br> **anselmo**| Architecture 본인의 역할1 본인의 역할2| [Auth-Server](https://github.com/DoTheZ-Team/auth-service)
+| <a href="https://github.com/sungsil0624"><img src="https://avatars.githubusercontent.com/u/113875098?v=4" height="120px"></a> | 정준희 <br> **sungsil0624**| Architecture 본인의 역할1 본인의 역할2| [Post-Server](https://github.com/DoTheZ-Team/auth-service) |
+| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | 정희찬 <br> **anselmo**| Architecture 본인의 역할1 본인의 역할2| [Auth-Server](https://github.com/DoTheZ-Team/post-service)
 
 <br>
 
