@@ -43,8 +43,8 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 | Profile | Name | Role | Project Repository |
 | :---: | :---: | :---: | :---: |
-| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend Service  본인의 역할1  본인의 역할2|[Web-Service](https://github.com/DoTheZ-Team/glue-fe)|
-| <a href="https://github.com/Collection50"><img src="https://avatars.githubusercontent.com/u/86355699?v=4" height="120px"></a> | 김성민 <br> **Collection50**| Frontend Service 본인의 역할1  본인의 역할2| [Web-Service](https://github.com/DoTheZ-Team/glue-fe) |
+| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend |[Web-Service](https://github.com/DoTheZ-Team/glue-fe)|
+| <a href="https://github.com/Collection50"><img src="https://avatars.githubusercontent.com/u/86355699?v=4" height="120px"></a> | 김성민 <br> **Collection50**| Frontend | [Web-Service](https://github.com/DoTheZ-Team/glue-fe) |
 
 <h3> DevOps part Team members </h3>
 
@@ -57,8 +57,8 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 | Profile | Name | Role | Project Repository |
 | :---: | :---: | :---: | :---: |
-| <a href="https://github.com/sungsil0624"><img src="https://avatars.githubusercontent.com/u/113875098?v=4" height="120px"></a> | 정준희 <br> **sungsil0624**| Architecture 본인의 역할1 본인의 역할2| [Auth-Server](https://github.com/DoTheZ-Team/auth-service) |
-| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | 정희찬 <br> **anselmo**| Architecture 본인의 역할1 본인의 역할2| [Post-Server](https://github.com/DoTheZ-Team/post-service)
+| <a href="https://github.com/sungsil0624"><img src="https://avatars.githubusercontent.com/u/113875098?v=4" height="120px"></a> | 정준희 <br> **sungsil0624**| Architecture | [Auth-Server](https://github.com/DoTheZ-Team/auth-service) |
+| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | 정희찬 <br> **anselmo**| Architecture | [Post-Server](https://github.com/DoTheZ-Team/post-service)
 
 <br>
 
