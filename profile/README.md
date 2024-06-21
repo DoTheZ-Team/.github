@@ -43,7 +43,7 @@ KEA 4기 Team DoTheZ(두더지) Glue 페이지에 온 것을 환영합니다! �
 
 | Profile | Name | Role | Project Repository |
 | :---: | :---: | :---: | :---: |
-| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend |[Web-Service](https://github.com/DoTheZ-Team/glue-fe)|
+| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | 공예영 <br> **yeyounging**| Frontend |[Web-Service](https://github.com/DoTheZ-Team/glue-fe)|
 | <a href="https://github.com/Collection50"><img src="https://avatars.githubusercontent.com/u/86355699?v=4" height="120px"></a> | 김성민 <br> **Collection50**| Frontend | [Web-Service](https://github.com/DoTheZ-Team/glue-fe) |
 
 <h3> DevOps part Team members </h3>
